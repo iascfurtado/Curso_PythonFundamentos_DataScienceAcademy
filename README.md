@@ -1,0 +1,2 @@
+# PythonFundamentos_DataScienceAcademy
+Curso gratuito desenvolvido pela Data Science Academy para aprendizado de Python. Aqui, assim como foi o respositório do curso de SQL, colocarei meus avanços no curso, especialmente dos exercícios propostos. Todos serão feitos usando o Jupyter Notebook e ao final o Pycharm com a biblioteca Pandas, já que o curso é voltado para análise de dados usando Python. 
